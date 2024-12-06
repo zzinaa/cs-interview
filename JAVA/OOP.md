@@ -1,4 +1,8 @@
 # OOP
+OOP(Object Oriented Programming)
+객체지향 프로그래밍 방식
+
+캡슐화, 상속, 추상화, 다형성
 
 ## OOP의 5대 원칙
 
